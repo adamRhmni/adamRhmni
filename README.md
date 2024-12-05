@@ -1,0 +1,2 @@
+- Hy Im ADAM
+- Im interested in Machine learning and Ai
