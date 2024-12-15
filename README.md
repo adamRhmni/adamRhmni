@@ -1,2 +1,3 @@
 - Hy Im ADAM
 - Im interested in Machine learning and Ai
+- m a BackEnd developer !
