@@ -1,6 +1,6 @@
-# Hi there 👋  
+# Heyyyy Im Adam 🖐  
 
-I'm a **Backend Developer** and **CS Student** with a passion for **AI**, **Machine Learning**, and **Cybersecurity**.  
+Im a **Backend Developer** and **CS Student** with a passion for **AI**, **Machine Learning**, and **Cybersecurity**.  
 
 ### 🔧 Skills:
 - **Programming**: Python (Proficient), C (Intermediate)  
@@ -16,4 +16,4 @@ I'm a **Backend Developer** and **CS Student** with a passion for **AI**, **Mach
 ### 🛠️ Projects:
 - Backend services for scalable apps  
 - Cybersecurity automation scripts  
-- Arduino IoT experiments  
+- Arduino IoT experiments
