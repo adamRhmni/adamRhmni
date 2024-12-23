@@ -1,4 +1,4 @@
-# Heyyyy Im Adam 🖐  
+# Heyyyy im Adam 🖐  
 
 Im a **Backend Developer** and **CS Student** with a passion for **AI**, **Machine Learning**, and **Cybersecurity**.  
 
