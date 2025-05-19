@@ -1,4 +1,4 @@
-# Hi i'm Adam 🖐
+# yo i'm Adam R 🖐
 
 <details>
 <br />
